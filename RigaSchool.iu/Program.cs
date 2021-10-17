@@ -11,6 +11,7 @@ namespace RigaSchool.iu
             Console.WriteLine("I enjoy reading and pondering God's Word on a daily basis."); Console.Write("I like music.");
             Console.WriteLine("Worship Songs are special to me.");
             Console.WriteLine("I like to learn something new and challenging.");
+            Console.WriteLine("I want to try kockboxing.\nI like to play basketball with my son.");
             Console.ReadLine();
         }
     }
