@@ -66,7 +66,7 @@ namespace RigaSchool.iu
             #endregion
 
             {
-                #region Homework4
+                #region Homework4-a
 
                 int monthnumber;
                 Console.WriteLine("Enter month number (1-12):");
@@ -113,10 +113,25 @@ namespace RigaSchool.iu
                         Console.WriteLine("Invalid input!!!Enter month number between 1-12");
                         break;
                 }
- #endregion
+                #endregion
+
+                #region Homowork4-b
+
+                //int number 1_= 31;
+                //int number 2_= 28 or 29;
+                //int number 3_= 31;
+                //int number 4_= 30;
+                //int number 5_= 31;
+                //int number 6_= 30;
+                //int number 7_= 31;
+                //int number 8_= 31;
+                //int number 9_= 30;
+                //int number 10_= 31;
+                //int number 11_= 30;
+                //int number 12_=31;
 
                 Console.ReadLine();
-               
+                #endregion
             }
 
 
