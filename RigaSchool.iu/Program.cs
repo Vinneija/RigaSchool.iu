@@ -129,7 +129,7 @@ namespace RigaSchool.iu
                 //int number 10_= 31;
                 //int number 11_= 30;
                 //int number 12_= 31;
-
+                
                 Console.ReadLine();
                 #endregion
             }
